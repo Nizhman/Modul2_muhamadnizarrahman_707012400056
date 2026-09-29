@@ -144,8 +144,8 @@ class _KerangkaNavigasiState extends State<KerangkaNavigasi> {
       },
       children: [
         const UserAccountsDrawerHeader(
-          accountName: Text('Nama Mahasiswa'),
-          accountEmail: Text('mahasiswa@kampus.ac.id'),
+          accountName: Text('Muhamad Nizar Rahman'),
+          accountEmail: Text('muhamadnizarrahman@student.telkomuniversity.ac.id'),
           currentAccountPicture: CircleAvatar(
             child: Icon(Icons.person),
           ),
